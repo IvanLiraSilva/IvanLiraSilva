@@ -58,4 +58,4 @@ src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tablea
   
   ##
  
-![Snake animation](https://github.com/IvanLiraSilva/IvanLiraSilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/IvanLiraSilva/IvanLiraSilva/blob/output/github-contribution-grid-snake.svg)
