@@ -1,3 +1,4 @@
+![data-science](https://github.com/IvanLiraSilva/IvanLiraSilva/assets/105115099/67f4d50f-6c32-427c-aa0d-7f9f4990a713)
 
 
 
