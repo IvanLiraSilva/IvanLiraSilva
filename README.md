@@ -1,3 +1,6 @@
+<a ><img src="https://www.google.com/search?sca_esv=558560939&q=imagens+de+data+science&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjuw-brs-uAAxXxqJUCHV2iDkIQ0pQJegQIDBAB&biw=1366&bih=619&dpr=1#imgrc=1V2BWEse2LbGrM)" target="_blank"></a>
+
+
 # Hi, I'm Ivan Silva 👋
 ### I have a degree in Computer Engineering and a postgraduate degree in Information Security.
 
