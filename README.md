@@ -59,8 +59,10 @@ src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tablea
 
   ##
 
+  
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/IvanLiraSilva/count.svg" /></p>
 
+  
   ##
 
   <div align="center">
